@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-ENV ANACONDA_URL https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+ENV ANACONDA_URL https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_64.sh
 ENV USER user
 ENV HOME /home/${USER}
 ENV NOTEBOOK_DIR ${HOME}/notebook
